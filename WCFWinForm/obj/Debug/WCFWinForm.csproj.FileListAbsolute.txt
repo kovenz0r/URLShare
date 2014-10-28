@@ -1,0 +1,9 @@
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\bin\Debug\WCFWinForm.exe.config
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.WCF.resources
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.csproj.GenerateResource.Cache
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\bin\Debug\WCFWinForm.exe
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\bin\Debug\WCFWinForm.pdb
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.exe
+c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.pdb
