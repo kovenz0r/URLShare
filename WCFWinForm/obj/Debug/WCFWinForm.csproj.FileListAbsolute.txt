@@ -7,3 +7,12 @@ c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\bin\
 c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\bin\Debug\WCFWinForm.pdb
 c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.exe
 c:\users\jordan\documents\visual studio 2013\Projects\WCFWinForm\WCFWinForm\obj\Debug\WCFWinForm.pdb
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\bin\Debug\WCFWinForm.exe.config
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.exe
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.pdb
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\bin\Debug\WCFWinForm.exe
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\bin\Debug\WCFWinForm.pdb
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.csprojResolveAssemblyReference.cache
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.Properties.Resources.resources
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.WCF.resources
+D:\Apps\GitHub\Repos\URLShare\WCFWinForm\obj\Debug\WCFWinForm.csproj.GenerateResource.Cache
